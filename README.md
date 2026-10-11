@@ -1,6 +1,6 @@
 # IT-2321 Lab 5: An Interactive Page: DOM, Events, and Timers
 
-**Week 10 | Reading: Eloquent JavaScript, Chapters 14 and 15**
+**Reading: Eloquent JavaScript, Chapters 14 and 15**
 
 This lab is practice with responding to user events, changing the page through the DOM, and using a timer to drive live behavior.
 
